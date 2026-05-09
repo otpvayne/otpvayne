@@ -59,7 +59,7 @@ Estoy buscando mi **primer trabajo remoto** como desarrollador Full Stack, abier
 
 ## 🔗 Portafolio & Contacto
 
-- 📂 Portafolio: [https://portafolio-fqn2.onrender.com](https://portafolio-sandy-phi-49.vercel.app/es)  
+- 📂 Portafolio: [https://portafolio-sandy-phi-49.vercel.app/es](https://portafolio-sandy-phi-49.vercel.app/es)  
 - 💼 LinkedIn: [linkedin.com/in/diego-medina-software](https://www.linkedin.com/in/diego-medina-software/)  
 - 📧 Email: diego.medina.swe@gmail.com  
 
